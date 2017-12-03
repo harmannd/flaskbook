@@ -4,3 +4,4 @@ flask-mongoengine==0.7.4
 mongoengine==0.10.0
 Flask-WTF==0.12
 py-bcrypt==0.4
+blinker==1.4
